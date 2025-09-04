@@ -21,7 +21,7 @@ This project is a simple web page presenting a travel profile in the style of In
 
 ```bash
 # Clone this repository
-git clone https://github.com/sillasemanoel/study-travelgram
+git clone https://github.com/sillasemanoel/study-travelgram.git
 
 # Enter the project folder
 cd study-travelgram
